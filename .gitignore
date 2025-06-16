@@ -1,0 +1,15 @@
+# compiled files
+*.exe
+*.out
+*.o
+
+# build directories
+build/
+bin/
+
+# editor settings
+.zed/
+
+# operating system files
+.DS_Store
+Thumbs.db

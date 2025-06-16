@@ -1,0 +1,4 @@
+# Normalize every text file to LF inside the repository and on checkout, so the
+# same files look identical on Windows, Linux, and macOS, and `git status` does
+# not report changes just because of line endings.
+* text=auto eol=lf
